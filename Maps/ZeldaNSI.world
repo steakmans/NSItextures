@@ -1,0 +1,27 @@
+{
+    "maps": [
+        {
+            "fileName": "map1.tmx",
+            "height": 320,
+            "width": 480,
+            "x": 480,
+            "y": -320
+        },
+        {
+            "fileName": "spawn.tmx",
+            "height": 320,
+            "width": 480,
+            "x": 480,
+            "y": 0
+        },
+        {
+            "fileName": "beach.tmx",
+            "height": 320,
+            "width": 480,
+            "x": 960,
+            "y": -320
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}
